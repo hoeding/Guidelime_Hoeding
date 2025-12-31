@@ -1,0 +1,55 @@
+## Title: Guidelime_Hoeding
+## Author: Hoeding - Dreamscythe
+## Version: 1.0
+## Interface: 11302
+## Dependencies: Guidelime
+## Notes: Hoedings guides.
+
+Vanilla\Alliance-Deadmines.lua
+#Vanilla\Alliance-Ragefire_Chasm.lua
+#Vanilla\Alliance-Stockades.lua
+#Vanilla\Alliance-Wailing_Caverns.lua
+#Vanilla\Alliance-Shadowfang_Keep.lua
+#Vanilla\Alliance-Blackfathom_Deeps.lua
+Vanilla\Alliance-Gnomeregan.lua
+Vanilla\Alliance-Razorfen_Kraul.lua
+Vanilla\Alliance-Scarlet_Monastery.lua
+Vanilla\Alliance-Razorfen_Downs.lua
+#Vanilla\Alliance-Maraudon.lua
+Vanilla\Alliance-Uldaman.lua
+#Vanilla\Alliance-Dire_Maul.lua
+Vanilla\Alliance-Zul_Farrak.lua
+#Vanilla\Alliance-Stratholme.lua
+#Vanilla\Alliance-Temple_of_Atal_Hakkar.lua
+#Vanilla\Alliance-Blackrock_Depths.lua
+#Vanilla\Alliance-Scholomance.lua
+#Vanilla\Alliance-Zul_Gurub.lua
+#Vanilla\Alliance-Molten_Core.lua
+#Vanilla\Alliance-Naxxramas.lua
+#Vanilla\Alliance-Blackwing_Lair.lua
+#Vanilla\Alliance-Ruins_of_Ahn_Qiraj.lua
+#TBC\Alliance-Temple_of_Ahn_Qiraj.lua
+#TBC\Alliance-Hellfire_Ramparts.lua
+#TBC\Alliance-Blood_Furnace.lua
+#TBC\Alliance-Slave_Pens.lua
+#TBC\Alliance-Underbog.lua
+#TBC\Alliance-Mana_Tombs.lua
+#TBC\Alliance-Auchenai_Crypts.lua
+#TBC\Alliance-Old_Hillsbrad_Foothills.lua
+#TBC\Alliance-Sethekk_Halls.lua
+#TBC\Alliance-Mechanar.lua
+#TBC\Alliance-Black_Morass.lua
+#TBC\Alliance-Arcatraz.lua
+#TBC\Alliance-Magisters_Terrace.lua
+#TBC\Alliance-Shadow_Labyrinth.lua
+#TBC\Alliance-Botanica.lua
+#TBC\Alliance-Steamvault.lua
+#TBC\Alliance-Shattered_halls.lua
+#TBC\Alliance-Mount_Hyjal.lua
+#TBC\Alliance-Tempest_Keep.lua
+#TBC\Alliance-Serpentshrine_Cavern.lua
+#TBC\Alliance-Magtheridons_Lair.lua
+#TBC\Alliance-Gruuls_Lair.lua
+#TBC\Alliance-Karazhan.lua
+#TBC\Black_Temple_attune.lua
+#

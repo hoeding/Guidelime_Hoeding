@@ -1,4 +1,4 @@
-guidelime.registerguide([[
+Guidelime.registerGuide([[
 [GA Alliance]
 [N Maraudon - Alliance]
 [NX The Temple of Atal'Hakkar - Alliance]
