@@ -1,8 +1,8 @@
 Guidelime.registerGuide(
     [[
-[N 68-70 Serpentshrine Cavern Attunement] --Name
-[D Step by step guide to SSC attunement] --Description
-[NX Mount Hyjal attunement] --Next Guide
+[N 68-70 Serpentshrine Cavern Attunement]--Name
+[D Step by step guide to SSC attunement]--Description
+[NX Mount Hyjal attunement]--Next Guide
 
 [REP Cenarion Expedition 21000]
 [REP Thrallmar 21000][A Horde][O]
@@ -14,7 +14,6 @@ Guidelime.registerGuide(
 [QC10901][O]
 Karazhan attunement[QC9837]
 [QC10901][O] --Cudgel
-
 
 --Nightbane summon chain (optional)
 Optional if another raid member can summon nightbane

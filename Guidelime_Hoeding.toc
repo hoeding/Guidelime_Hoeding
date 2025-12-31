@@ -52,4 +52,4 @@ TBC\Alliance-Serpentshrine_Cavern_attune.lua
 #TBC\Alliance-Gruuls_Lair.lua
 TBC\Alliance-Karazhan_attune.lua
 TBC\Black_Temple_attune.lua
-#
+TBC\Leveling_rep_grind.lua
