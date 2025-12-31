@@ -20,7 +20,7 @@ Karazhan attunement[QC9837]
 Optional if another raid member can summon nightbane
 --Medivh's Journal
 [QA9630]
-In the library just past Curator[QC9630]
+In the library just after Curator[QC9630]
 
 --In Good Hands
 [QA9638]
