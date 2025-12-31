@@ -121,4 +121,4 @@ Turn in[QT2361]--Restoring the Necklace, Ironforge
 Turn in[QT2240]--The Hidden Chamber, Ironforge
 Turn in[QT2279]--The Platinum Discs 2, Ironforge
 
-]], "Hoedings Guide")
+]], "Hoeding's Guide")

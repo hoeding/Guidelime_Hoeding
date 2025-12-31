@@ -69,4 +69,4 @@ Kill the big cheese[QC9844]
 
 
 
-    ]], "Hoeding's Karazhan Attunement guide")
+    ]], "Hoeding's Guide")

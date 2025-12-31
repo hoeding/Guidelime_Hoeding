@@ -139,7 +139,7 @@ Shattered Halls for Heroics [REP Thrallmar 21000][A Horde][O]
 Shattered Halls for Heroics [REP Honor Hold 21000][A Alliance][O]
 Old Hillsbrad for Heroics [REP Keepers of Time 21000][O]
 Black Morass for Heroics [REP Keepers of Time 21000][O]
-Shadow Labs for Heroics [Rep Lower City 21000][O]
+Shadow Labs for Heroics [REP Lower City 21000][O]
 The Mechanar for Heroics [REP The Sha'tar 21000][O]
 Magisters Terrace for Heroics [REP Shattered Sun Offensive 21000][O]
 
@@ -165,4 +165,4 @@ Heroic Mana Tombs [REP Consortium 42000][O]
 
 Heroic Magisters Terrace [REP Shattered Sun Offensive 42000]
 
-    ]], "Hoeding's guide")
+    ]], "Hoeding's Guide")

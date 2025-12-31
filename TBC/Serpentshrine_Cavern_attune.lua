@@ -64,6 +64,4 @@ Also in the library[QC9639]
 [QC10901] --Cudgel
 [QT10901]
 
-
-
-    ]], "Hoeding's SSC Attunement guide")
+    ]], "Hoeding's Guide")

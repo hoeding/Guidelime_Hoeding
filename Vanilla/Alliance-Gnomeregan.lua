@@ -96,4 +96,4 @@ Turn in [QT2928]--Gyrodrillmatic Excavationators, Stormwind
 --Booty Bay
 Turn in [QT2904]--A fine mess, booty bay
 
-]], "Hoedings Guide")
+]], "Hoeding's Guide")

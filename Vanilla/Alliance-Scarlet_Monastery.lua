@@ -42,4 +42,4 @@ Turn in[QT1053]--In the Name of the Light
 
 Turn in[QT1050]--Mythology of the Titans
 
-]], "Hoedings Guide")
+]], "Hoeding's Guide")

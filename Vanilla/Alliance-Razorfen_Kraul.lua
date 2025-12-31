@@ -29,4 +29,4 @@ Turn in [QT1221]--Blueleaf tubers
 Darnassus
 Turn in [QT1142]--Mortality Wanes
 
-]], "Hoedings Guide")
+]], "Hoeding's Guide")

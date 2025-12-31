@@ -1,6 +1,6 @@
 Guidelime.registerGuide([[
 [GA Alliance]
-[N Maraudon - Alliance]
+[N 39-52 Maraudon Quests]
 [NX The Temple of Atal'Hakkar - Alliance]
 [D description]
 
@@ -52,4 +52,4 @@ Turn in[QT7070]--Shadowshard Fragments, Theramore
 Moonglade
 Turn in[QT7066]--Seed of Life, Moonglade
 
-]], "Hoedings Guide")
+]], "Hoeding's Guide")

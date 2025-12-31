@@ -3,7 +3,7 @@
 ## Version: 1.0
 ## Interface: 11302
 ## Dependencies: Guidelime
-## Notes: Hoedings guides.
+## Notes: Hoedings Guides.
 
 Vanilla\Alliance-Deadmines.lua
 #Vanilla\Alliance-Ragefire_Chasm.lua
@@ -15,7 +15,7 @@ Vanilla\Alliance-Gnomeregan.lua
 Vanilla\Alliance-Razorfen_Kraul.lua
 Vanilla\Alliance-Scarlet_Monastery.lua
 Vanilla\Alliance-Razorfen_Downs.lua
-#Vanilla\Alliance-Maraudon.lua
+Vanilla\Alliance-Maraudon.lua
 Vanilla\Alliance-Uldaman.lua
 #Vanilla\Alliance-Dire_Maul.lua
 Vanilla\Alliance-Zul_Farrak.lua
@@ -45,11 +45,10 @@ Vanilla\Alliance-Zul_Farrak.lua
 #TBC\Alliance-Botanica.lua
 #TBC\Alliance-Steamvault.lua
 #TBC\Alliance-Shattered_halls.lua
-TBC\Alliance-Hyjal_Summit_attune.lua
-TBC\Alliance-Tempest_Keep_attune.lua
-TBC\Alliance-Serpentshrine_Cavern_attune.lua
+TBC\Tempest_Keep_attune.lua
+TBC\Serpentshrine_Cavern_attune.lua
 #TBC\Alliance-Magtheridons_Lair.lua
 #TBC\Alliance-Gruuls_Lair.lua
-TBC\Alliance-Karazhan_attune.lua
+TBC\Karazhan_attune.lua
 TBC\Black_Temple_attune.lua
 TBC\Leveling_rep_grind.lua

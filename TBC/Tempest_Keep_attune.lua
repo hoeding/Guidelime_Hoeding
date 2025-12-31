@@ -1,6 +1,6 @@
 Guidelime.registerGuide(
     [[
-[N 68 Tempest Keep attunement] --Name
+[N 68-70 Tempest Keep attunement] --Name
 [D Step by step guide to TK attunement] --Description
 [NX Black Temple attunement] --Next Guide
 --marskid2 on wowhead had a great comment for this, tyvm!
@@ -139,4 +139,4 @@ Accept[QA10888]
 Complete[QC10888]
 Turn in [QT10888]
 
-    ]], "Hoeding's Tempest Keep Attunement guide")
+    ]], "Hoeding's Guide")

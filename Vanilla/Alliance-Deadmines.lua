@@ -20,4 +20,4 @@ Accept [QA65] -- Westfall, Defias chain start
 Do [QC168] -- Collecting memories
 Do [QC167] -- Thistlenettle]
 
-    ]], "Hoeding's Deadmine guide")
+    ]], "Hoeding's Guide")

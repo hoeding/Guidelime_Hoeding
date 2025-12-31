@@ -104,4 +104,4 @@ Accept[QA10959]
 Complete[QC10959]
 Turn in [QA10959]
 
-    ]], "Hoeding's Black Temple Attunement guide")
+    ]], "Hoeding's Guide")

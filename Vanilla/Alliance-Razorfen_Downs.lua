@@ -31,4 +31,4 @@ Turn in[QT3525]--Extinguishing the Idol 32
 --Stormwind
 Turn in[QT3636]--Bring the Light 39
 
-]], "Hoedings Guide")
+]], "Hoeding's Guide")
