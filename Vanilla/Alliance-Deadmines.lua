@@ -1,3 +1,5 @@
+--add defias chain properly
+
 Guidelime.registerGuide(
     [[
 [N 14-20 Deadmines Quests] --Name

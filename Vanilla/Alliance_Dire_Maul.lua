@@ -17,8 +17,6 @@ Accept[QA7441]--Pusillin and the Elder Azj'Tordin, 54 69, Feralas East
 Complete[QC7441]--Pusillin and the Elder Azj'Tordin, DME
 Turn in[QT7441]--Pusillin and the Elder Azj'Tordin, Feralas East
 
-
-
 DMW
 
 Accept[QA7461]--The Madness Within, 56 72, DMW
@@ -27,16 +25,6 @@ Turn in[QT7461]--The Madness Within, DMW
 
 Accept[QA7877]--The Treasure of the Shen'dralar, 56 72, DMW
 Turn in[QT7877]--The Treasure of the Shen'dralar, DMW
-
-Accept[QA
-Complete[QC
-Turn in[QT
-
-Accept[QA
-Complete[QC
-Turn in[QT
-
-
 
 Accept[QA
 Complete[QC

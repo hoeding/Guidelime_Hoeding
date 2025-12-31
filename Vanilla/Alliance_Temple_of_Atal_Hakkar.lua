@@ -4,15 +4,7 @@ guidelime.registerguide([[
 [NX The Temple of Atal'Hakkar - Alliance]
 [D description]
 
-
-
-
-
 ]], "Hoedings Guide")
-
-
-
-
 
 Accept[QA3445]--The Sunken Temple, 56 62, Feralas
 Turn in[QT3445]--The Sunken Temple, Central Tanaris
@@ -23,8 +15,6 @@ Accept[QA3446]--Into the Depths, 46 62, Central Tanaris
 Accept[QA3447]--Secret of the Circle, 46 52, Central Tanaris
 Turn in[QT3447]--Secret of the Circle, ST
 Turn in[QT3446]--Into the Depths, ST
-
-
 
 Accept[QA1448]--In Search of the Temple, 38 53, Stormwind
 Complete[QC1448]--In Search of the Temple, Swamp of Sorrows
@@ -44,13 +34,9 @@ Accept[QA1475]--Into the Temple of Atal'Hakkar, Stormwind
 Complete[QC1475]--Into the Temple of Atal'Hakkar, Sunken Temple
 Turn in[QT1475]--Into the Temple of Atal'Hakkar, Stormwind
 
-
-
-
 Accept[QA1446]--Jammal'an the Prophet, 38 64, Hinterlands
 Complete[QC1446]--Jammal'an the Prophet, Sunken Temple
 Turn in[QT1446]--Jammal'an the Prophet, Hinterlands
-
 
 Accept[QA3373]--The Essence of Eranikus, 48 66, Sunken Temple drop
 Complete[QC3373]--The Essence of Eranikus, Sunken Temple
