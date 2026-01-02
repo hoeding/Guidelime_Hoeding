@@ -20,7 +20,7 @@ Vanilla\Alliance-Uldaman.lua
 #Vanilla\Alliance-Dire_Maul.lua
 Vanilla\Alliance-Zul_Farrak.lua
 #Vanilla\Alliance-Stratholme.lua
-#Vanilla\Alliance-Temple_of_Atal_Hakkar.lua
+Vanilla\Alliance-Temple_of_Atal_Hakkar.lua
 #Vanilla\Alliance-Blackrock_Depths.lua
 #Vanilla\Alliance-Scholomance.lua
 #Vanilla\Alliance-Zul_Gurub.lua

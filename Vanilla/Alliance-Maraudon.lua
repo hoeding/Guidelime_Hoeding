@@ -1,6 +1,6 @@
 Guidelime.registerGuide([[
 [GA Alliance]
-[N 39-52 Maraudon Quests]
+[N 45-52 Maraudon Quests]
 [NX The Temple of Atal'Hakkar - Alliance]
 [D description]
 
