@@ -1,11 +1,4 @@
 
-
-
-
-
-Complete[QC3528]--The God Hakkar, Sunken Temple
-Turn in[QT3528]--The God Hakkar, East Tanaris
-
 Accept[QA5065]--The Lost Tablets of Mosh'aru, 40 69, East Tanaris
 Complete[QC5065]--The Lost Tablets of Mosh'aru, Eastern Plaguelands
 Turn in[QT5065]--The Lost Tablets of Mosh'aru, East Tanaris

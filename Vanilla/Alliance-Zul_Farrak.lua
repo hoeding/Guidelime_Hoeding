@@ -62,16 +62,11 @@ Turn in [QT3042]--Troll Temper, Gadgetzan
 
 East Tanaris
 Turn in[QT3527]--The Prophecy of Mosh'aru, East Tanaris
-Accept[QA4787]--The Ancient Egg, 40 61, East Tanaris
-
+Sunken Temple/Jinthalor quest pickup[QA4787][O]--The Ancient Egg, 40 61, East Tanaris
 Dustwallow Marsh
 Turn in [QT2846]--Tiara of the Deep, Dustwallow Marsh
 
 Blasted Lands
 Turn in [QT2991]--Nekrum's Medallion, 40 57, Blasted Lands
 
-Hinterlands
-Complete[QC4787]--The Ancient Egg, Hinterlands Jintha'Alor
-Turn in[QT4787]--The Ancient Egg, East Tanaris
-(Sunken Temple)Accept[QA3528]--The God Hakkar, 40 64, East Tanaris
 ]], "Hoeding's Guide")
