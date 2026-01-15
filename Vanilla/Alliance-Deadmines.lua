@@ -1,10 +1,9 @@
 --add defias chain properly
 
-Guidelime.registerGuide(
-    [[
-[N 14-20 Deadmines Quests] --Name
-[D Descriptive description] --Description
-[NX Wailing Caverns Quests] --Next Guide
+Guidelime.registerGuide([[
+[N 14-20 Deadmines Quests]--Name
+[D Descriptive description]--Description
+[NX Wailing Caverns Quests]--Next Guide
 [GA Alliance] --Faction, races, class global
 Accept [QA2041] --Ironforge, Speak with Shoni
 Fly to Stormwind
